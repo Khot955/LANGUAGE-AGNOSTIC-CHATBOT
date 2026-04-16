@@ -1,6 +1,6 @@
-# FB-CHAT-BOT
+# LANGUAGE AGNOSTIC CHATBOT
 
-## Getting Started with fb-chat-bot
+## Getting Started with LANGUAGE AGNOSTIC CHATBOT
 
 ### Simple Method 
 
