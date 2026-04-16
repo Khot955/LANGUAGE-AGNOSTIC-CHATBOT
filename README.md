@@ -201,6 +201,4 @@ Same goes if they send image and unsend it.. You can view the unsent images imme
 
 #### Note: dont forget to provide initial keyword like find, solve, calculate, evaluate, convert etc
 
-## Copyright & License
-- Copyright (©) 2022 by [Abdul Kalam](https://github.com/abdul97233)
-- Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
+
